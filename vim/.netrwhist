@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/iaguis/igalia/Skeltrack/.git/info'
+let g:netrw_dirhist_2='/home/iaguis/igalia/Skeltrack/skeltrack'
+let g:netrw_dirhist_3='/home/iaguis/Skeltrack'
+let g:netrw_dirhist_4='/home/iaguis/.vim'
+let g:netrw_dirhist_5='/home/iaguis/.vim/colors'
+let g:netrw_dirhist_6='/home/iaguis/.vim/plugin/autoload'
